@@ -1,0 +1,958 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"currentLayer	property"
+			],
+			[
+				"moveTo",
+				"moveToXY	method"
+			],
+			[
+				"K",
+				"KeyCode	class"
+			],
+			[
+				"ph",
+				"phCursorKeys	property"
+			],
+			[
+				"x",
+				"worldX	property"
+			],
+			[
+				"G",
+				"COLOR_GROUND	property"
+			],
+			[
+				"cr",
+				"createLayer	method"
+			],
+			[
+				"Tile",
+				"TilemapLayer	class"
+			],
+			[
+				"KEY",
+				"KEY_TILEMAP_IMAGE	property"
+			],
+			[
+				"KEY_TI",
+				"KEY_TILEMAP_IMAGE	property"
+			],
+			[
+				"TILE",
+				"KEY_TILEMAP_IMAGE	property"
+			],
+			[
+				"bomber",
+				"bomberman-tilemap-image"
+			],
+			[
+				"get",
+				"getElementById	method"
+			],
+			[
+				"Crea",
+				"createElement	function"
+			],
+			[
+				"Hel",
+				"HelloProps	interface"
+			],
+			[
+				"tab",
+				"tabButtonClickEventHandlerBinded"
+			],
+			[
+				"cli",
+				"tabButtonClickEventHandler"
+			],
+			[
+				"tabBu",
+				"tabButtonClickEventHandler"
+			],
+			[
+				"circ",
+				"circle-icon-text"
+			],
+			[
+				"d",
+				"domIDImagesPrefix"
+			],
+			[
+				"cir",
+				"circle-icon-size"
+			],
+			[
+				"transfor",
+				"transform-origin"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"tim",
+				"timelineSlider"
+			],
+			[
+				"time",
+				"timelineSlider"
+			],
+			[
+				"arr",
+				"arrLineTweens"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"cu",
+				"currentActiveIndex"
+			],
+			[
+				"prev",
+				"prevActiveIndex"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"nav",
+				"navOverlayInterval"
+			],
+			[
+				"IDQ",
+				"ID_QUIZ"
+			],
+			[
+				"trai",
+				"transition-duration"
+			],
+			[
+				"ga",
+				"gaCounter"
+			],
+			[
+				"n",
+				"nextQuestionID"
+			],
+			[
+				"up",
+				"updateQuestionNumber"
+			],
+			[
+				"ne",
+				"nextQuestionID"
+			],
+			[
+				"ar",
+				"arrQuestions"
+			],
+			[
+				"choi",
+				"choiceIndex"
+			],
+			[
+				"q",
+				"questionIndex"
+			],
+			[
+				"in",
+				"questionIndex"
+			],
+			[
+				"ID",
+				"ID_QUESTION_TEXT"
+			],
+			[
+				"qu",
+				"questionIndex"
+			],
+			[
+				"ID_QU",
+				"ID_QUESTION_NUMBER"
+			],
+			[
+				"tog",
+				"togglerNavMenu"
+			],
+			[
+				"pointer",
+				"pointer-events"
+			],
+			[
+				"Seq",
+				"SectionSequenceScroller"
+			],
+			[
+				"smoo",
+				"smoothScrollTo"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"ht",
+				"htmlElementTrigger"
+			],
+			[
+				"Sect",
+				"SectionSequenceScroller"
+			],
+			[
+				"toggl",
+				"toggleOnCallBack"
+			],
+			[
+				"html",
+				"htmlElement"
+			],
+			[
+				"sec",
+				"section-padding-top"
+			],
+			[
+				"tra",
+				"transition-duration"
+			],
+			[
+				"htl",
+				"htmlElementTarget"
+			],
+			[
+				"onR",
+				"onResizeCallBackScope"
+			],
+			[
+				"do",
+				"doHorizontalCenter"
+			],
+			[
+				"hmtl",
+				"htmlElementTarget"
+			],
+			[
+				"num",
+				"numPrevHeight"
+			],
+			[
+				"transition",
+				"transition-delay"
+			],
+			[
+				"obj",
+				"arrObjParams"
+			],
+			[
+				"scroll",
+				"scrollMagicController"
+			],
+			[
+				"tran",
+				"transform-origin"
+			],
+			[
+				"numMin",
+				"numMinHeight"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"para",
+				"parallaxEffectCatchPhone1"
+			],
+			[
+				"ID_",
+				"ID_SECTION_CATCH_PHONE_1"
+			],
+			[
+				"overf",
+				"overflow-x"
+			],
+			[
+				"str",
+				"strClassNameSticky"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"height",
+				"heightDifference"
+			],
+			[
+				"hei",
+				"heightDifference"
+			],
+			[
+				"wi",
+				"widthDifference"
+			],
+			[
+				"numScal",
+				"numScaleIncrement"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"primar",
+				"primary-section-article"
+			],
+			[
+				"prima",
+				"primary-section-article"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ts/phaserGameTest.ts",
+			"settings":
+			{
+				"buffer_size": 10919,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 256,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "phaser_presentation/presentation_final.txt",
+			"settings":
+			{
+				"buffer_size": 2833,
+				"line_ending": "Windows",
+				"name": "1: Phaser"
+			}
+		},
+		{
+			"contents": "3:36\n",
+			"settings":
+			{
+				"buffer_size": 5,
+				"line_ending": "Windows",
+				"name": "3:36"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"build",
+				"Build With: TypeScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 249.0,
+		"history":
+		[
+			"sudo import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/phaser/bomberman",
+		"/C/xampp/htdocs/phaser/bomberman/assets",
+		"/C/xampp/htdocs/phaser/bomberman/js",
+		"/C/xampp/htdocs/phaser/bomberman/phaser_presentation",
+		"/C/xampp/htdocs/phaser/bomberman/ts"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/phaser/bomberman/ts/bomberman.ts",
+		"/C/xampp/htdocs/phaser/bomberman/phaser_presentation/presentation_draft.txt",
+		"/C/xampp/htdocs/phaser/bomberman/tsconfig.json",
+		"/C/xampp/htdocs/phaser/bomberman/index_1_phaserGame.html",
+		"/C/xampp/htdocs/phaser/bomberman/index_bomberman.html",
+		"/C/xampp/htdocs/phaser/bomberman/._tsconfig.json",
+		"/C/xampp/htdocs/phaser/bomberman/bomberman_index.html",
+		"/C/xampp/htdocs/phaser/bomberman/phaserGame_index.html",
+		"/C/xampp/htdocs/phaser/bomberman/index.html",
+		"/C/xampp/htdocs/phaser/bomberman/js/bomberman.js",
+		"/Users/patrick/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/patrick/Documents/work/tests/phaser/bomberman/js/bomberman.js",
+		"/Users/patrick/Documents/work/tests/phaser/bomberman/tsconfig.json",
+		"/Users/patrick/Documents/work/tests/phaser/bomberman/ts/test.ts",
+		"/Users/patrick/Library/Application Support/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/Users/patrick/Library/Application Support/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/Users/patrick/Documents/work/tests/react/test3/proj/tsconfig.json",
+		"/Users/patrick/Documents/work/tests/phaser/bomberman/ts/bomberman.js",
+		"/Users/patrick/Documents/work/tests/test1/main/js/tsconfig.json",
+		"/Users/patrick/Documents/work/tests/test1/main/js/main.ts",
+		"/Users/patrick/Downloads/phaser-2.6.1/typescript/readme.md",
+		"/Users/patrick/Downloads/phaser-2.6.1/typescript/typings.json",
+		"/Users/patrick/Downloads/phaser-2.6.1/typescript/tslint.json",
+		"/Users/patrick/Downloads/phaser-2.6.1/typescript/phaser.comments.d.ts",
+		"/Users/patrick/Documents/work/tests/phaser/bomberman/js/main.js",
+		"/Users/patrick/Documents/work/tests/phaser/tiled/test1/assets/bomberMan/js/BomberGame.js",
+		"/Users/patrick/Documents/work/tests/phaser/tiled/test1/assets/tiled.json",
+		"/Users/patrick/Documents/work/tests/phaser/tiled/test1/index.html",
+		"/Users/patrick/Documents/work/tests/react/test2/react-hello-world/webpack.config.js",
+		"/Users/patrick/Documents/work/tests/react/test2/react-hello-world/package.json",
+		"/Users/patrick/Documents/work/tests/react/test2/react-hello-world/src/client/app/AwesomeComponent.jsx",
+		"/Users/patrick/Documents/work/tests/react/test2/react-hello-world/src/client/public/bundle.js",
+		"/Users/patrick/Documents/work/tests/react/test3/proj/dist/bundle.js",
+		"/Users/patrick/Documents/work/tests/react/test3/proj/index.html",
+		"/Users/patrick/Documents/work/tests/react/test3/proj/typings.json",
+		"/Users/patrick/Documents/work/tests/react/test3/proj/src/index.tsx",
+		"/Users/patrick/Documents/work/tests/react/test3/proj/src/components/Hello.tsx",
+		"/Users/patrick/Documents/work/tests/react/test3/proj/typings/index.d.ts",
+		"/Users/patrick/Documents/work/tests/react/test3/proj/package.json",
+		"/Users/patrick/Documents/work/tests/test1/main/components/carousel/js/carousel.ts",
+		"/Users/patrick/Documents/work/tests/test1/main/js/main.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/6-module/_about-feature.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/view/about-feature.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/view/about-policy.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/6-module/_heading-lv2.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/6-module/_greeting.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/js/module/_tab.js",
+		"/Users/patrick/Documents/work/tests/react/test2/react-hello-world/src/client/index.html",
+		"/Users/patrick/Documents/work/tests/react/test2/react-hello-world/src/client/app/index.jsx",
+		"/Users/patrick/Documents/work/tests/react/test2/react-hello-world/.babelrc",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/view/interview.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/view/interview-00.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/6-module/_card.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/6-module/_interview-00.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/6-module/_interview.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/5-layout/_l-contents-inner.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/view/department.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/6-module/_message.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/6-module/_hero.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/6-module/_tab.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/js/activities.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/js/student.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/js/activities.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_message.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_square-icon.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/interview.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_interview.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_card.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/interview-detail-graduate.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_interview-detail-graduate.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/about-feature.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/js/about-feature.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_about-feature.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_heading-lv2.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_hero.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_arrow.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/module/_hero.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/7-utility/_utility.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/wp/wp-load.php",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/dental-technician.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_interview-detail-special.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_circle-icon.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/interview-detail-special.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/1-setting/_color.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/1-setting/_font.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/1-setting/_setting.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/2-tool/_mixin.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/5-layout/_l-contents-inner.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/5-layout/_l-wrapper.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/layout/_script.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_lower-section-feature.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_lower-section-campuslife.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/style.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/5-layout/_l-hero.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_tab.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_activities.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/activities.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/js/module/_tab.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/js/about-facilities.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/5-layout/_l-header.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/5-layout/_l-btn.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/js/about-feature.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/7-utility/_utility.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/3-base/_generic.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/3-base/_reset.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/style.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/view/layout/_script.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/6-module/_activities.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/view/activities.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_policy-section.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/about-policy.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/about-facilities.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass/6-module/_annualevent.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_container.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/public/sp/about-facilities.html",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_heading-lv3.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_heading-lv4.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/module/_lower-section-category.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/module/_page-top.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_page-top.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/sass/6-module/_icon.scss",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp/view/department.ejs",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/js/department.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/js/privacy.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/js/opencampus.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/js/oldschool.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/js/general.js",
+		"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/js/hygienist.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/src",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/src",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/sp",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/src",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc/sass",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/public/pc",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/src/pc",
+			"/Users/patrick/Documents/work/lig/shintokyogikou/front/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"animations.play",
+			"this.phSpriteMan.animations.play('destroy', 8, false, true);",
+			"game",
+			"veloci",
+			"tabButtonIDPrefix",
+			"HEAD",
+			"interview-mainimg",
+			" card-picture-large-a",
+			"class=\"message",
+			"watermark",
+			"sharp",
+			"icon",
+			"height",
+			"heading-lv2-main",
+			"HEAD",
+			"interview-detail",
+			"square-icon",
+			"//",
+			"line-h",
+			"line-he",
+			"line",
+			"//",
+			"2px",
+			"line-height",
+			"375",
+			"@include query",
+			"query",
+			"font-size",
+			"HEAD",
+			"@extend %u-core;",
+			"campuslife",
+			"line",
+			"2px",
+			"tab-top",
+			"after",
+			"tab",
+			"HEAD",
+			"sliderContent",
+			"$lines",
+			"class=\"u-clear\"",
+			"u-clear",
+			"%u-clear",
+			"float",
+			"&-b",
+			"float",
+			"class=\"u-clear\"",
+			"line-height",
+			"lower",
+			"description-lower",
+			"line-height",
+			"$base-line-height",
+			"line-h",
+			"line-height",
+			"HEAD",
+			"class=\"u-clear\"",
+			"u-clear",
+			"office",
+			"hero-office",
+			"\"office\"",
+			"head",
+			"style-",
+			"style",
+			"card-description",
+			"class=\"u-clear\"",
+			"fe",
+			"50",
+			"array3xArticles",
+			"array2xArticles",
+			"acitivities",
+			"about-feature",
+			"z-index",
+			"overflow",
+			"red",
+			"facilities",
+			"hero-txt-main",
+			"section-animation",
+			"about-feature-section-animation",
+			"console",
+			"$('",
+			"$('#js-slider-text')",
+			"\n",
+			"$('#js-lines-mask')",
+			"mask",
+			"$('#js-lines')",
+			"$('#js-lines'), 0, ",
+			"$('#js-lines')",
+			"$('#js-lines'), 0, ",
+			"$('#js-lines')",
+			"'#js-circle-icon-'",
+			"js-lines",
+			"js-lines-mask",
+			"#js-lines",
+			"#js-circle-icon",
+			"$(",
+			"sliderContent",
+			"$('#js-slider-content')",
+			"img",
+			"console",
+			" arrow-animation-none",
+			"js-slider-content",
+			"console",
+			"color",
+			"//",
+			"about-feature-article-heading",
+			"about-feature-section-heading",
+			"event",
+			"//",
+			"top",
+			"div",
+			"h2",
+			"<p>",
+			"<h3>",
+			"h3",
+			":hover",
+			"h1",
+			"newness",
+			"message-text",
+			"hero-txt-main",
+			"feature-img",
+			"u-clear",
+			"-image",
+			"img",
+			"card-picture-large-a",
+			"//",
+			"\\.\\d",
+			"clear",
+			"u-clear",
+			"clear"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"l-contents-inner l-contents-inner-small",
+			"article-textsright",
+			"interview-00",
+			"interview",
+			"saitai",
+			"lifest",
+			"FracoraQuiz",
+			"questionID",
+			"Question",
+			".",
+			"mail__form",
+			"section__title",
+			"grid",
+			"."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ts/phaserGameTest.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2571,
+								2571
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1260.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "phaser_presentation/presentation_final.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1: Phaser",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2128.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"auto_name": "3:36",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 191.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+	"project": "bomberman.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

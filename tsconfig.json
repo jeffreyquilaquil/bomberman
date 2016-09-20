@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outFile": "./js/main.js"
+    },
+    "files": [
+        "./ts/bomberman.ts",
+        "./ts/phaserGameTest.ts"
+    ]
+}
